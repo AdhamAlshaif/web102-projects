@@ -35,10 +35,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 **Desktop Version:**
-<img src='https://imgur.com/a/project1-ibbvgp4' alt='Desktop Video Walkthrough' /> 
+<img src='project1-web.gif' alt='Desktop Video Walkthrough' /> 
 
 **Mobile Version (iPhone 14 Pro Max):**
-<img src='https://imgur.com/a/gV64YWI' alt='Mobile Video Walkthrough' /> 
+<img src='project1-phone.mp4' alt='Mobile Video Walkthrough' /> 
 
 GIF created with ScreenToGif
 
