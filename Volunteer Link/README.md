@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 **Desktop Version:**
-<img src='https://imgur.com/gallery/project1-ibbvgp4' title='Desktop Video Walkthrough' width='' alt='Desktop Video Walkthrough' />
+<img src='https://imgur.com/gallery/project1-ibbvgp4' title='Desktop Video Walkthrough' width='' alt='Desktop Video Walkthrough' /> 
 
 **Mobile Version (iPhone 14 Pro Max):**
 <!--<img src='' title='Mobile Video Walkthrough' width='' alt='Mobile Video Walkthrough' /> -->
