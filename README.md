@@ -8,7 +8,7 @@ Project Progress
 Here's a list of the projects, where you can mark them off as completed:
 
 - [x] Project 01: Timetabled Project
-- [ ] Project 02: Coming Soon
+- [x] Project 02:  Flashcards! Part 1
 - [ ] Project 03: Coming Soon
 - [ ] Project 04: Coming Soon
 - [ ] Project 05: Coming Soon
